@@ -1,8 +1,10 @@
 # 🦟 Mata Mosquito Game
 
-A simple and fun browser game developed with **HTML, CSS, and JavaScript**.
+A browser-based game developed with HTML, CSS and JavaScript.
 
-The objective is to eliminate mosquitoes before they disappear while trying to survive until the timer reaches zero.
+## 🌐 Live Demo
+
+👉 https://alexandrenino.github.io/mata-mosquito-game/
 
 ---
 
@@ -47,7 +49,7 @@ mata-mosquito-game/
 ├── app.html
 ├── fim_de_jogo.html
 ├── jogo.js
-├── start_page.html
+├── index.html
 ├── style.css
 └── vitoria.html
 ```
@@ -70,3 +72,11 @@ This project helped me practice:
 ## 👨‍💻 Author
 
 Alexandre de Souza Pereira
+
+## 🇧🇷 Versão em Português
+
+Projeto desenvolvido durante meus estudos de JavaScript.
+
+O objetivo do jogo é eliminar todos os mosquitos antes que o tempo termine.
+
+Este projeto faz parte do meu portfólio de desenvolvimento Front-End.
